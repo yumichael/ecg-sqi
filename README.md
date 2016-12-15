@@ -1,2 +1,1 @@
-# ecg-sqi
-Seeing how various ML algorithms do on the CinC 2011 challenge (https://physionet.org/challenge/2011/)
+Seeing how one might construct a Signal Quality Index for ECG using data from the CinC 2011 challenge (https://physionet.org/challenge/2011/). A culminating project showing how one of the latest nonlinear dimensionality reduction techniques, the Diffusion Map or Laplacian Eigenmap, performs on short windows of real life signal data. An presentation can be found [**here**](https://yumichael.github.io/jupyter-notebook-slides/#/). The plots are fully interactive! Also do not forget that you can press down arrow to see more of a slide! Look at the bottom right corner to see if the down arrow is highlighted.
