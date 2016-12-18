@@ -2,7 +2,7 @@
 
 mkdir -p /tmp/workspace
 cp -r * /tmp/workspace/
-git checkout -f -B gh-pages
+git checkout -f gh-pages
 git merge master -m "update from master"
 jupyter-nbconvert --to slides explore.ipynb --reveal-prefix=reveal.js
 mv explore.slides.html  index.html
